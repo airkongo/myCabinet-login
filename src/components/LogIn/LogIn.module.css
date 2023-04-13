@@ -1,0 +1,267 @@
+.component.component {
+  left: 156px;
+  top: 597px;
+  width: 560px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.component2.component2 {
+  left: 156px;
+  top: 804px;
+  width: 560px;
+  height: 89px;
+  outline: solid 0 #000;
+  outline-offset: 0;
+}
+.rectangle2.rectangle2 {
+  z-index: 0;
+}
+.rectangle2 {
+  z-index: 0;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.unnamed {
+  color: #797777;
+  font-size: 33px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  position: absolute;
+  left: 4.9505%;
+  right: 30.6931%;
+  top: 32.9412%;
+  bottom: 32.9412%;
+  justify-content: center;
+  flex-direction: column;
+}
+.button.button {
+  left: 156px;
+  top: 940px;
+  width: 560px;
+  height: 89px;
+}
+.rectangle22.rectangle22 {
+  outline: solid 2px #00773d;
+  border-radius: 15px;
+  background-color: #00773d;
+}
+.next {
+  color: #fff;
+  font-size: 33px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  position: absolute;
+  left: 32.2412%;
+  right: 33.1159%;
+  top: 27.5497%;
+  bottom: 27.5065%;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1403px;
+  align-items: flex-start;
+  background-color: #ebe3cd;
+  overflow: hidden;
+}
+.dASHBOARD {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1641px;
+  background-color: #12202f;
+}
+.iCONS72 {
+  position: absolute;
+  left: 2598px;
+  top: 4439px;
+  width: 279px;
+  height: 278px;
+  background-image:/* webpackIgnore: true */ url('assets/iCONS72.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iCONS2 {
+  position: absolute;
+  left: 2300px;
+  top: 4021px;
+  width: 278px;
+  height: 277px;
+  background-image:/* webpackIgnore: true */ url('assets/iCONS2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iCONS51 {
+  position: absolute;
+  left: 3063px;
+  top: 3961px;
+  width: 278px;
+  height: 278px;
+  background-image:/* webpackIgnore: true */ url('assets/iCONS51.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.rectangle36 {
+  position: absolute;
+  left: 0;
+  top: 1304px;
+  width: 1920px;
+  height: 122px;
+  background-color: #fff;
+}
+.rectangle1 {
+  position: absolute;
+  left: 480px;
+  top: -178px;
+  width: 1408px;
+  height: 66px;
+  border-radius: 44px;
+  background-color: #12202f;
+}
+.eCabinet {
+  color: #fff;
+  font-size: 88px;
+  line-height: 130px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 3px;
+  position: absolute;
+  left: 146px;
+  top: 277px;
+  width: 572px;
+  height: 138px;
+  flex-direction: column;
+}
+.castroFinal1 {
+  position: absolute;
+  left: 146px;
+  top: 101px;
+  width: 146px;
+  height: 164px;
+  background-image:/* webpackIgnore: true */ url('assets/castroFinal1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.welcomeToOurVirtualCabinetMeet {
+  position: absolute;
+  left: 1106px;
+  top: 546px;
+  width: 615px;
+  height: 488px;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 66px;
+  line-height: 88px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+}
+.textBlock2 {
+  color: #fff;
+  font-size: 66px;
+  line-height: 88px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 2px;
+}
+.frame {
+  position: absolute;
+  left: 146px;
+  top: 1295.9999px;
+  width: 1603px;
+  height: 16.0001px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.group {
+  position: absolute;
+  left: 1469.744px;
+  top: 101px;
+  width: 321.7285px;
+  height: 313.9997px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.password {
+  color: #fff;
+  font-size: 33px;
+  line-height: 130px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  position: absolute;
+  left: 158px;
+  top: 701px;
+  width: 248px;
+  height: 103px;
+  flex-direction: column;
+}
+.frame2 {
+  position: absolute;
+  left: 577px;
+  top: 839px;
+  width: 100px;
+  height: 40px;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.email {
+  color: #fff;
+  font-size: 33px;
+  line-height: 130px;
+  font-weight: bold;
+  font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 1px;
+  position: absolute;
+  left: 158px;
+  top: 475px;
+  width: 248px;
+  height: 103px;
+  flex-direction: column;
+}
+.line2 {
+  transform-origin: bottom left;
+  position: absolute;
+  left: 960px;
+  top: 576px;
+  width: 452px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  border-bottom: solid 1px #fff;
+  margin-bottom: -1px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}

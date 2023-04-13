@@ -1,0 +1,34 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 707px;
+  height: 85px;
+  align-items: flex-start;
+  border-radius: 2px;
+}
+.rectangle2 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.janeExampleCom {
+  color: #464646;
+  font-size: 33px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 4.9505%;
+  right: 30.6931%;
+  top: 32.9412%;
+  bottom: 32.9412%;
+  justify-content: center;
+  flex-direction: column;
+}
